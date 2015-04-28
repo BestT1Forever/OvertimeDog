@@ -1,5 +1,5 @@
 # OvertimeDog
-A Incredible, Unbelievable, In-fucking-credible APP that statistics overtime working     
+A Incredible, Unbelievable, In-fucking-credible APP that statistics overtime working
 
 
 # Depend on
@@ -11,7 +11,7 @@ A Incredible, Unbelievable, In-fucking-credible APP that statistics overtime wor
 - React.js
 
 # To Do
-- [ ] Location based detection
+- [ ] Location Based Detection
 - [ ] Share to SNS
 - [ ] Amazing Rank System
 - [ ] Unbelievable ugly UI
