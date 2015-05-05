@@ -4,8 +4,13 @@ A Incredible, Unbelievable, In-fucking-credible APP that statistics overtime wor
 
 # Depend on
 
-## Mobile
+## Mobile (iOS)
 - React Native
+
+## Mobile (Android)
+- [GreenDAO](https://github.com/greenrobot/greenDAO) Database 
+- [EventBus](https://github.com/greenrobot/EventBus) Event Handler
+
 
 ## Web
 - React.js
