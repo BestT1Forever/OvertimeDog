@@ -23,3 +23,4 @@ A Incredible, Unbelievable, In-fucking-credible APP that statistics overtime wor
 - [ ] Amazing Rank System
 - [ ] Unbelievable ugly UI
 - [ ] countless dogs
+- [ ] Wifi 
